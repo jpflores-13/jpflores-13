@@ -1,5 +1,7 @@
-### Hi there 👋
+### Howdy! 🤠 (don't be mistaken, I'm from LA) 🌴
 
+* 🎓 I am a PhD student in the [Bioinformatics and Computational Biology (BCB)](https://bcb.unc.edu/) program at University of North Carolina at Chapel Hill.
+* 🔬 I study the role of 3D chromatin structure in response to environmental stress in the [Phanstiel Lab](http://phanstiel-lab.med.unc.edu/).
 <!--
 **jpflores-13/jpflores-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
