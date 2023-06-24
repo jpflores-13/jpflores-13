@@ -8,6 +8,7 @@ Although science is what I want to do for the rest of my career, I am extremely 
 Check out my DEI literature dashboard (in construction) and my podcast, _From where does it STEM?_
 
 Outside of lab, I am a HUGE fan of music. However, I cannot play music as well as I'd like. Here's what I've been listening to:
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1246212565&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 - 📫 How to reach me:
