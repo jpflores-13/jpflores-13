@@ -5,7 +5,6 @@
 * 🐯 I am a proud alum of Occidental College, a small liberal arts school in Los Angeles, CA. There, I played NCAA DIII baseball ⚾️ and majored in Cellular & Molecular Biology 🧬. I also did research on the venom of fish-hunting cone snails! 🐚
 
 Check out my...
-
 * 💾 [Active Projects](https://github.com/jpflores-13?tab=repositories)
 * 📚 [Publications](https://orcid.org/my-orcid?orcid=0000-0001-5619-8990)
 * 📜 [Resume](https://docs.google.com/document/d/1Mg0jPUKOusDRNCGUEyMKwqDf4N1bKw3tL-1PafFkxyc/edit)
