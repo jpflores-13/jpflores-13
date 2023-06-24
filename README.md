@@ -6,7 +6,7 @@
 
 Although science is what I want to do for the rest of my career, I am extremely passionate about diversity, equity, and inclusion (DEI) and empowering the next generation of scientists.
 
-Check out my DEI literature dashboard (in construction) and my podcast, _From where does it STEM?_ 
+Check out my DEI literature dashboard (in construction) and my podcast, _From where does it STEM?_ (click the image to listen on Spotify!)
 
 [<img src="Spotify_NextWave_Wrap-Up-Social-Assets_1920x1080 From where does it STEM.png" align="center" width="240" height="135">](https://open.spotify.com/show/1KLdFOVbk70n2qAz6zcdv2?si=071251fffec04685)
 
