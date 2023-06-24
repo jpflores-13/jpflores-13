@@ -7,9 +7,9 @@ Although science is what I want to do for the rest of my career, I am extremely 
 
 Check out my DEI literature dashboard (in construction) and my podcast, _From where does it STEM?_
 
-![Spotify_NextWave_Wrap-Up-Social-Assets_1920x1080 From where does it STEM](https://github.com/jpflores-13/jpflores-13/assets/64728821/e75cdb6e-5eeb-4a84-8f1d-95663f6a8134)
+[![Spotify_NextWave_Wrap-Up-Social-Assets_1920x1080 From where does it STEM](https://github.com/jpflores-13/jpflores-13/assets/64728821/e75cdb6e-5eeb-4a84-8f1d-95663f6a8134)](https://open.spotify.com/show/1KLdFOVbk70n2qAz6zcdv2?si=5a685723911d460f)
 
-Outside of lab, I am a HUGE fan of music. However, I cannot play music as well as I'd like. Here's what I've been listening to:
+Outside of lab, I am a HUGE fan of music. Here's what I've been listening to:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1246212565&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/1246212565?si=e4b417f50fbd48ff)
 
