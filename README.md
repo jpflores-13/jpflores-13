@@ -5,7 +5,7 @@
 
 Although science is what I want to do for the rest of my career, I am extremely passionate about diversity, equity, and inclusion (DEI) and empowering the next generation of scientists.
 
-Check out my DEI literature dashboard (in construction) and my podcast, _From where does it STEM?__
+Check out my DEI literature dashboard (in construction) and my podcast, _From where does it STEM?_
 
 Outside of lab, I am a HUGE fan of music. However, I cannot play music as well as I'd like. Here's what I've been listening to:
 
