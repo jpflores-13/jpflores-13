@@ -2,6 +2,7 @@
 
 * 🎓 I am a PhD student in the [Bioinformatics and Computational Biology (BCB)](https://bcb.unc.edu/) program at the University of North Carolina at Chapel Hill.
 * 🔬 I study the role of 3D chromatin structure in response to environmental stress in the [Phanstiel Lab](http://phanstiel-lab.med.unc.edu/).
+* 🐯 I am a proud alum of Occidental College, a small liberal arts college in Los Angeles, CA. There, I played NCAA DIII ⚾️ and majored in Cellular & Molecular Biology 🧬 and did research on the venom of fish-hunting cone snails! 🐚 
 
 Although science is what I want to do for the rest of my career, I am extremely passionate about diversity, equity, and inclusion (DEI) and empowering the next generation of scientists.
 
