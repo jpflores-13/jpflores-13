@@ -11,8 +11,9 @@ Outside of lab, I am a HUGE fan of music. However, I cannot play music as well a
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1246212565&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-- 📫 How to reach me:
+📫 How to reach me:
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jpflores_31) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-patrick-flores/) [![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
 )](mailto:jflores@unc.edu) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpflores013@gmail.com)
-- 😄 Pronouns: he/him
+
+😄 Pronouns: he/him
