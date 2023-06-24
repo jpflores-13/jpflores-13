@@ -8,9 +8,9 @@ Although science is what I want to do for the rest of my career, I am extremely 
 
 Check out my DEI literature dashboard (in construction) and my podcast, _From where does it STEM?_ 
 
-<img src="Spotify_NextWave_Wrap-Up-Social-Assets_1920x1080 From where does it STEM.png" align="center" width="240" height="135">
+<img src="assets/Spotify_NextWave_Wrap-Up-Social-Assets_1920x1080 From where does it STEM.png" align="center" width="240" height="135">
 
-[<img src="spotify_en.png">](https://open.spotify.com/show/1KLdFOVbk70n2qAz6zcdv2?si=071251fffec04685)
+[<img src="assets/spotify_en.png">](https://open.spotify.com/show/1KLdFOVbk70n2qAz6zcdv2?si=071251fffec04685)
 
 Outside of lab, I am a HUGE fan of music. Here's what I've been listening to:
 
