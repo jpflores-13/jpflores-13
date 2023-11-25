@@ -7,7 +7,7 @@
 Check out my...
 * 💾 [Active Projects](https://github.com/jpflores-13?tab=repositories)
 * 📚 [Publications](https://orcid.org/my-orcid?orcid=0000-0001-5619-8990)
-* 📜 [Resume](https://docs.google.com/document/d/1Mg0jPUKOusDRNCGUEyMKwqDf4N1bKw3tL-1PafFkxyc/edit)
+* 📜 [Resume](https://jpflores-13.github.io/cv/resume.html)
 
 Although science is what I want to do for the rest of my career, I am extremely passionate about diversity, equity, and inclusion (DEI) and empowering the next generation of scientists.
 
