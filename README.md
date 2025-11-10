@@ -1,17 +1,17 @@
 ### Howdy! 🤠 (don't be mistaken, I'm from LA 🌴)
 
-* 🎓 I am a PhD student in the [Bioinformatics and Computational Biology (BCB)](https://bcb.unc.edu/) program at the University of North Carolina at Chapel Hill.
+* 🎓 I am a PhD candidate in the [Bioinformatics and Computational Biology (BCB)](https://bcb.unc.edu/) program at the University of North Carolina at Chapel Hill.
 * 🔬 I study the role of 3D chromatin structure in response to environmental stress in the [Phanstiel Lab](http://phanstiel-lab.med.unc.edu/).
 * 🐯 I am a proud alum of Occidental College, a small liberal arts school in Los Angeles, CA. There, I played NCAA DIII baseball ⚾️ and majored in Cellular & Molecular Biology 🧬. I also did research on the venom of fish-hunting cone snails! 🐚
 
 Check out my...
 * 💾 [Active Projects](https://github.com/jpflores-13?tab=repositories)
 * 📚 [Publications](https://orcid.org/my-orcid?orcid=0000-0001-5619-8990)
-* 📜 [Resume](https://jpflores-13.github.io/cv/jpflores-resume.html)
+* 📜 [CV](https://jpflores-13.github.io/cv/cv.html)
 
 Although science is what I want to do for the rest of my career, I am extremely passionate about diversity, equity, and inclusion (DEI) and empowering the next generation of scientists.
 
-Check out my DEI literature dashboard (in construction) and my podcast, _From where does it STEM?_ 
+Check out my podcast, _From where does it STEM?_ 
 
 <img src="assets/Spotify_NextWave_Wrap-Up-Social-Assets_1920x1080 From where does it STEM.png" align="center" width="240" height="135">
 
