@@ -1,6 +1,6 @@
 ### Howdy! 🤠 (don't be mistaken, I'm from LA 🌴)
 
-* 🎓 I recently completed my PhD in the [Bioinformatics and Computational Biology (BCB)](https://bcb.unc.edu/) program at the University of North Carolina at Chapel Hill.
+* 🎓 I completed my PhD in the [Bioinformatics and Computational Biology (BCB)](https://bcb.unc.edu/) program at the University of North Carolina at Chapel Hill.
 * 🔬 I study the role of 3D chromatin structure in response to environmental stress in the [Phanstiel Lab](http://phanstiel-lab.med.unc.edu/).
 * 🐯 I am a proud alum of Occidental College, a small liberal arts school in Los Angeles, CA. There, I played NCAA DIII baseball ⚾️ and majored in Cellular & Molecular Biology 🧬. I also did research on the venom of fish-hunting cone snails! 🐚
 
