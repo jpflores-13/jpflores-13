@@ -2,7 +2,7 @@
 
 * 🎓 I completed my PhD in the [Bioinformatics and Computational Biology (BCB)](https://bcb.unc.edu/) program at the University of North Carolina at Chapel Hill
 * 🗣️ I am also a Co-Founder of the nonprofit organization, [Science For Good](https://sciforgood.org/)
-* 🧠 For my next step, I will be an HHMI Gilliam Postdoc at Case Western Reserve University (Cleveland, OH, US) in the lab of [Dr. Marissa Scavuzzo](https://scavuzzolab.org/)
+* 🧠 For my next step, I will be in Milan, Italy 🇮🇹 as a Fulbright Scholar working with [Dr. Michele Gabriele](https://www.gabrielelab.com/) at the San Raffaele Telethon Institute for Gene Therapy (SR-Tiget). I will then be moving to Case Western Reserve University (Cleveland, OH, US) as a HHMI Gilliam Postdoc in the lab of [Dr. Marissa Scavuzzo](https://scavuzzolab.org/)
 * 🔬 I studied the role of 3D chromatin structure in response to environmental stress in the [Phanstiel Lab](http://phanstiel-lab.med.unc.edu/).
 * 🐯 I am a proud alum of Occidental College, a small liberal arts school in Los Angeles, CA. There, I played NCAA DIII baseball ⚾️ and majored in Cellular & Molecular Biology 🧬. I also did research on the venom of fish-hunting cone snails! 🐚
 
