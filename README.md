@@ -1,9 +1,8 @@
 ### Howdy! 🤠 (don't be mistaken, I'm from LA 🌴)
 
-* 🎓 I completed my PhD in the [Bioinformatics and Computational Biology (BCB)](https://bcb.unc.edu/) program at the University of North Carolina at Chapel Hill
+* 🎓 I completed my PhD in the [Bioinformatics and Computational Biology (BCB)](https://bcb.unc.edu/) program at the University of North Carolina at Chapel Hill. I studied the role of 3D chromatin structure in response to environmental stress in the [Phanstiel Lab](http://phanstiel-lab.med.unc.edu/).
 * 🗣️ I am also a Co-Founder of the nonprofit organization, [Science For Good](https://sciforgood.org/)
-* 🧠 For my next step, I will be in Milan, Italy 🇮🇹 as a Fulbright Scholar working with [Dr. Michele Gabriele](https://www.gabrielelab.com/) at the San Raffaele Telethon Institute for Gene Therapy (SR-Tiget). I will then be moving to Case Western Reserve University (Cleveland, OH, US) as a HHMI Gilliam Postdoc in the lab of [Dr. Marissa Scavuzzo](https://scavuzzolab.org/)
-* 🔬 I studied the role of 3D chromatin structure in response to environmental stress in the [Phanstiel Lab](http://phanstiel-lab.med.unc.edu/).
+* 🧠 I am a Fulbright Scholar in the [Gabriele lab](https://www.gabrielelab.com/) at the San Raffaele Telethon Institute for Gene Therapy (SR-Tiget) in Milan, Italy 🇮🇹. I am also a HHMI Gilliam Postdoctoral Scholar in the [Scavuzzo lab](https://scavuzzolab.org/) at Case Western Reserve University (Cleveland, OH, US)
 * 🐯 I am a proud alum of Occidental College, a small liberal arts school in Los Angeles, CA. There, I played NCAA DIII baseball ⚾️ and majored in Cellular & Molecular Biology 🧬. I also did research on the venom of fish-hunting cone snails! 🐚
 
 Check out my...
@@ -11,7 +10,7 @@ Check out my...
 * 📚 [Publications](https://orcid.org/0000-0001-5619-8990)
 * 📜 [CV](https://jpflores-13.github.io/my-cv/cv.html)
 
-Although science is what I want to do for the rest of my career, I am extremely passionate about diversity, equity, and inclusion (DEI) and empowering the next generation of scientists.
+Although science is what I want to do for the rest of my career, I am extremely passionate about empowering the next generation of scientists and science policy.
 
 Check out my podcast, _From where does it STEM?_ 
 
