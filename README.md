@@ -20,7 +20,7 @@ Check out my podcast, _From where does it STEM?_
 
 Outside of lab, I am a HUGE fan of music. Here's what I've been listening to:
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1246212565&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/1246212565?si=e4b417f50fbd48ff)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1246212565&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
 📫 How to reach me:
 
